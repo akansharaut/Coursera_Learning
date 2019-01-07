@@ -1,0 +1,29 @@
+{
+  "name": "coursera_learning",
+  "version": "1.0.0",
+  "description": "Learning from coursera",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "npm run test",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akansharaut/Coursera_Learning.git"
+  },
+  "keywords": [
+    "learn",
+    "react",
+    "redux"
+  ],
+  "author": "Akansha Raut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akansharaut/Coursera_Learning/issues"
+  },
+  "homepage": "https://github.com/akansharaut/Coursera_Learning#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
